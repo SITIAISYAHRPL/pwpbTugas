@@ -44,9 +44,9 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `email`, `image`, `password`, `role_id`, `is_active`, `date_create`) VALUES
-(33, 'NurafniUchiha', 'kazekagefia@gmail.com', 'default1.jpg', '$2y$10$OsxRc.ByrosCj7Fcg5zpVuhdS3Xe9L3JZuO0l1VA7gJdxBh5trBfa', 1, 1, 1571890396),
-(37, 'Sabaku no Viiaa', 'nurafni.dragneel1@gmail.com', 'gaara.jpg', '$2y$10$8EgSEmX6dzCoEx.CNJCnK.tDTbGLM6AZ6XV5geYI3Pi1AJ4/6jFv6', 2, 1, 1571892764),
-(42, 'Fia Dattebayo', 'fia.kazekage@gmail.com', 'default.jpg', '$2y$10$cYmXzc6orbOJ9uPSoqvmt.yxLyf/GUm/ACKFWRWjhiApDrSm4C9Gi', 2, 0, 1571903442);
+(33, 'Aisyah', 'Rivaedm@gmail.com', 'default1.jpg', '$2y$10$OsxRc.ByrosCj7Fcg5zpVuhdS3Xe9L3JZuO0l1VA7gJdxBh5trBfa', 1, 1, 1571890396),
+(37, 'Aisyahriva', 'Aisyah217@gmail.com', 'gaara.jpg', '$2y$10$8EgSEmX6dzCoEx.CNJCnK.tDTbGLM6AZ6XV5geYI3Pi1AJ4/6jFv6', 2, 1, 1571892764),
+(42, 'Rivasyah', 'riva217@gmail.com', 'default.jpg', '$2y$10$cYmXzc6orbOJ9uPSoqvmt.yxLyf/GUm/ACKFWRWjhiApDrSm4C9Gi', 2, 0, 1571903442);
 
 -- --------------------------------------------------------
 
