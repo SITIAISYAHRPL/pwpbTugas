@@ -155,7 +155,7 @@ CREATE TABLE `user_token` (
 --
 
 INSERT INTO `user_token` (`id`, `email`, `token`, `date_created`) VALUES
-(33, 'fia.kazekage@gmail.com', 'yW5z09rg2BHxnmVy7tvZagyZExQ5T9AHvHbM25mnd/4=', 1571903442);
+(33, 'rivaedm@gmail.com', 'yW5z09rg2BHxnmVy7tvZagyZExQ5T9AHvHbM25mnd/4=', 1571903442);
 
 --
 -- Indexes for dumped tables
